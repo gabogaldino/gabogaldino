@@ -1,16 +1,41 @@
-### Hi there 👋
 
-<!--
-**gabogaldino/gabogaldino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <p>
+    <a title="Curriculum Badge" href="https://far-zoo-2a1.notion.site/Gabriel-Galdino-6a8ff014db77460fbac4f1eb5df518b6" target="_blank">
+      <img src="https://img.shields.io/badge/Curriculum-FF6600?logo=notion&logoColor=black&fontColor=black&style=for-the-badge" alt="LinkedIn Badge" />
+    </a>
+    <a title="LinkedIn Badge" href="https://www.linkedin.com/in/gabogaldino" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-046292?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+    <a title="Dev.to Badge" href="https://dev.to/gabogaldino" target="_blank">
+      <img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="Devto Badge" />
+    </a>
+    <wbr>
+    <a title="Twitter Badge" href="https://twitter.com/gabolgaldino" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-209bec?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
+    </a>
+  </p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+- Atualmente estou **#OpenToWork** para trabalhar na área de AppSec, InfoSec e/ou Dev;
+- Moro no Rio de Janeiro (RJ);
+- Possuo tecnólogo em Análise e Desenvolvimento de Sistemas;
+- Atualmente estudando e praticando segurança ofensiva.
+---
+
+## Linguagens e Ferramentas
+
+  <img title="Git" alt="Git" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" />&nbsp;
+  <img title="Docker" alt="Docker" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />&nbsp;
+  <img title="Python" alt="Python" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />&nbsp;
+  <img title="JavaScript" alt="JavaScript" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />&nbsp;
+  <img title="JavaScript" alt="JavaScript" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" />&nbsp; 
+  <img title="JavaScript" alt="JavaScript" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" />&nbsp; 
+  <img title="JavaScript" alt="JavaScript" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" />&nbsp; 
+  <img title="JavaScript" alt="JavaScript" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" />&nbsp; 
+  
+  
