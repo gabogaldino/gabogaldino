@@ -21,7 +21,6 @@
 
 ## Sobre mim
 
-- Atualmente estou **#OpenToWork** para trabalhar na área de AppSec, InfoSec e/ou Dev;
 - Moro no Rio de Janeiro (RJ);
 - Possuo tecnólogo em Análise e Desenvolvimento de Sistemas;
 - Atualmente estudando e praticando segurança ofensiva.
