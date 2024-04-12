@@ -16,14 +16,7 @@
     </a>
   </p>
 </div>
-
----
-
-## Sobre mim
-
-- Moro no Rio de Janeiro (RJ);
-- Possuo tecnólogo em Análise e Desenvolvimento de Sistemas;
-- Atualmente estudando e praticando segurança ofensiva.
+ 
 ---
 
 ## Linguagens e Ferramentas
